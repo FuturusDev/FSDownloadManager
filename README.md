@@ -1,6 +1,6 @@
-## CrossDownloadManager
+## FSDownloadManager
 
-The CrossDownloadManager is a plugin that helps you downloading files in the background.
+The FSDownloadManager is a plugin that helps you downloading files in the background.
 
 ### Build Status:
 ![GitHub tag](https://img.shields.io/github/tag/SimonSimCity/xamarin-crossdownloadmanager.svg)
